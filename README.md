@@ -1,4 +1,6 @@
 # آزمون API با ابزار POSTMAN
+![image](https://github.com/yahyaPoursoltani/Product-CRUD/assets/14939079/d7a86a97-4915-432a-b7fb-679666d78ccc)
+
 # API
 ![image](https://voyager.postman.com/illustration/diagram-what-is-an-api-postman-illustration.svg)
 
@@ -23,7 +25,7 @@
 سرآیند (Response Header) : اطلاعات تکمیلی در خصوص پاسخ
 بدنه پاسخ (Response Body)  : پاسخ نهایی دریافتی
 # Rest
-![image]("https://www.opc-router.com/wp-content/uploads/2024/01/rest-api.png")
+![image](https://www.opc-router.com/wp-content/uploads/2024/01/rest-api.png)
 
 یک سبک طراحی و معماری است.
 هدف : ارتباط راحت تر بین سسیستم‌های توزیع شده.
@@ -74,4 +76,3 @@ Transfer State : هر آن‌چه که باید به کاربر ارائه شو�
 محصول افزوده شده در فهرست تمام محصولات موجود باشد.
 محصول افزوده شده بتواند فقط یک مرتبه حذف شود.
 پس از حذف، در فهرست محصولات موجود نباشد و قابل بازیابی نیز نباشد. 
-![image](https://github.com/yahyaPoursoltani/Product-CRUD/assets/14939079/d7a86a97-4915-432a-b7fb-679666d78ccc)
