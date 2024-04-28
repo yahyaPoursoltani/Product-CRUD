@@ -1,6 +1,6 @@
 # آزمون API با ابزار POSTMAN
 # API
-![image]("https://voyager.postman.com/illustration/diagram-what-is-an-api-postman-illustration.svg")
+![image](https://voyager.postman.com/illustration/diagram-what-is-an-api-postman-illustration.svg)
 
 مخفف Application Interface است.
 کارکردهای لازم را به استفاده‌کنندگان عرضه می‌کند.
